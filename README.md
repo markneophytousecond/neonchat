@@ -10,7 +10,7 @@ A modern desktop client built to bring the NeonChat experience to Windows and Li
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-0.15.0-8b5cf6?style=for-the-badge)](https://github.com/)
+[![Version]([https://img.shields.io/badge/version-0.15.0-8b5cf6?style=for-the-badge](https://img.shields.io/badge/version-0.15.0%20(LIME)-8b5cf6?style=for-the-badge))](https://github.com/)
 [![Electron](https://img.shields.io/badge/Electron-36-47848f?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Windows](https://img.shields.io/badge/Windows-Available-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/markneophytousecond/neonchat/releases/download/neonchat-0150-win/neonchat-desktop-windows.exe)
 [![Linux](https://img.shields.io/badge/Linux-Available-FCC624?style=for-the-badge&logo=linux&logoColor=black)](ttps://github.com/markneophytousecond/neonchat/releases/download/neonchat-0150-linux/neonchat-desktop-linux.deb)
@@ -41,7 +41,6 @@ Whether you're using Windows or Linux, NeonChat aims to provide a convenient way
 |:---:|:---:|:---:|
 | 🪟 Windows | `.exe` | [Download for Windows](../../releases/latest) |
 | 🐧 Ubuntu / Debian | `.deb` | [Download for Linux](../../releases/latest) |
-| 🐧 Linux | `.AppImage` | [Download AppImage](../../releases/latest) |
 
 </div>
 
@@ -51,7 +50,6 @@ Whether you're using Windows or Linux, NeonChat aims to provide a convenient way
 
 - **Windows:** Choose the `.exe` installer.
 - **Ubuntu / Debian:** Choose the `.deb` package.
-- **Other compatible Linux distributions:** Try the `.AppImage` package.
 
 Always download releases from the official repository.
 
