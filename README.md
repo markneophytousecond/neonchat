@@ -10,7 +10,7 @@ A modern client built to bring the NeonChat experience to Windows, Linux, and An
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-0.15.0%20(LIME)-BFFF00?style=for-the-badge)](https://github.com/markneophytousecond/neonchat/releases)
+[![Version](https://img.shields.io/badge/version-0.15.1%20(LIME)-BFFF00?style=for-the-badge)](https://github.com/markneophytousecond/neonchat/releases)
 [![Electron](https://img.shields.io/badge/Electron-36-47848f?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Windows](https://img.shields.io/badge/Windows-Available-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/markneophytousecond/neonchat/releases/download/neonchat-0150-win/neonchat-desktop-windows.exe)
 [![Linux](https://img.shields.io/badge/Linux-Available-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/markneophytousecond/neonchat/releases/download/neonchat-0150-linux/neonchat-desktop-linux.deb)
@@ -124,13 +124,13 @@ After installation, launch NeonChat from your applications menu if the desktop e
 3. Make the file executable:
 
 ```bash
-chmod +x NeonChat-0.15.0.AppImage
+chmod +x NeonChat-0.15.1.AppImage
 ```
 
 4. Launch the application:
 
 ```bash
-./NeonChat-0.15.0.AppImage
+./NeonChat-0.15.1.AppImage
 ```
 
 Replace the example filename with the actual downloaded filename.
@@ -155,7 +155,7 @@ If the application reports a missing FUSE dependency, install the appropriate co
 
 ### ✦ Stay Connected.
 
-**NeonChat · Version 0.15.0 — LIME**
+**NeonChat · Version 0.15.1 — LIME**
 
 Developed by **D9 Dev Project**
 
